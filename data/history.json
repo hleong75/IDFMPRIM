@@ -1,0 +1,708 @@
+{
+  "perLine": {
+    "unknown": [
+      {
+        "id": "7dd0b3ec-c5ba-11ee-bd2f-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du Bus de Soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "85d7f130-c5bb-11ee-81db-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "26853e9c-c9ba-11ee-9121-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "816970ae-cffe-11ee-b14f-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "2fe9811e-f264-11ee-9935-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "e46b1308-f653-11ee-bdfc-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Ile-de-France Ouest : Ligne 7808, montées et descentes autorisées entre \"Mantes-la-Ville\" et \"Cergy\" dans les deux sens.",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "0258548c-1109-11ef-a614-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "8f5ec8d4-39db-11ef-85e1-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "e083e050-39db-11ef-85e1-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "23a34e20-39dc-11ef-9151-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "ae0a8fd6-39de-11ef-9151-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "af881968-3ec1-11ef-85e1-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "ed45fdce-3ec1-11ef-9339-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "03de2426-3ec2-11ef-9339-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "1bd05342-3ec2-11ef-9151-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "c6696534-69fe-11ef-abce-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "19e23e34-69ff-11ef-ae41-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "1a2af43a-8f8e-11ef-b4de-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus de Soirée",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "72cda9ca-8f8e-11ef-8d26-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "6f82c36c-a10a-11ef-90f2-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "⚠️🚍#InfoTrafic  - Lignes 4332 - Dès le mardi 18 novembre 2024",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "a7397530-b0c3-11ef-90f2-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Aérobus d’Aéroport Paris-Beauvais : Procédure de réservation",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "4297ca10-b220-11ef-90f2-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "INFORMATION A COMPTER DU 04 DECEMBRE 2024",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "b782f9da-c436-11ef-bc79-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "⚠️🚍#InfoTrafic - Ligne 9101, 9109 - Dès le Lundi 06 janvier 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "02bc0e78-cdc9-11ef-b1c7-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Transport à la Demande - Réservation obligatoire",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "65bf102c-e964-11ef-8ef2-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "[#InfoTraficImportant] Changement d'horaires Ligne 209 (future 3109) - Mise en place d'une correspondance avec la ligne 2292",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "9f222c00-f46d-11ef-b375-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "52b88b92-f46e-11ef-b418-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "8eef7306-f5cb-11ef-96bd-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "3f576dbc-f5df-11ef-829f-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Ligne 7821 - Modalités de desserte des arrêts aux Mureaux",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "c9ee70f6-f819-11ef-96bd-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "RESEAU SENART FIN DEV A COMPTER DU 04 MARS  2025",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "a0b9a1a2-0425-11f0-9201-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "51f9908a-0426-11f0-8747-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "d72e9384-1067-11f0-b7af-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "⚠️🚍#InfoTrafic- Ligne 4121 -  Le Jeudi 03 avril 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "c169f76c-3251-11f0-8e2e-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Emplacement arrêt Porte d'Orléans",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "fd9a3dee-469e-11f0-8b29-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "RESEAU SENART DEV A COMPTER DU 16 JUIN 2025",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "92e42220-678d-11f0-854a-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Suppression Arrêt Paraclet",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "5b96641e-6791-11f0-8911-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Déplacement Arrêt Rue de Paris JOUY LE CHATEL",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "ea13ee6c-71d9-11f0-81bd-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "MLV CHESSY NORD Changement de quai",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "c9a5238e-768a-11f0-8aee-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Report Mairie de Marolles",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "12e01bae-7c11-11f0-99fa-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Du nouveau !",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "4436f06a-7e96-11f0-8aee-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "9 (4609) S9 (4659) 11 (4611) 9106 (4606) - Travaux 'Plaine des Sports' non desservi (094)",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "66670f56-7f3d-11f0-9137-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Changement emplacement Gare d'Epinay-sur-Orge",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "7c6c0d24-834d-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Bus 6284_Arrêt Lycée Franco-Allemand modifié",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "27c4c4e0-834e-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Modification de l'offre ligne 38",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "dac56900-834e-11f0-8937-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Modification de l'offre de votre ligne 03A",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "e10ddf68-834e-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "modification de l'offre ligne 41A",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "e7f8a9f2-834e-11f0-8937-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Modification de l'offre ligne 02D",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "8d1ce72c-834f-11f0-bf1d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Modification de l'offre de la ligne 31B",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "ac840772-84de-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1201 : Détail des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "66e0e59e-84e0-11f0-bf1d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1207 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "defc311e-84e0-11f0-bf1d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1206 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "7c4ed3d6-84e1-11f0-a9ad-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1232 : Détails des courses supprimées  du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "f73731d8-84e1-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1241 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "92978c72-84e2-11f0-a9ad-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1202 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "2993d1ee-84e3-11f0-a9ad-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1228 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "d0ec3d82-84e3-11f0-88ed-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1224 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "a31d679e-84e5-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1242 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "1f483d30-84e6-11f0-bb6c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Cergy-Pontoise Confluence : Ligne 1226 : Détails des courses supprimées du 15 au 19 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "50040db8-86a9-11f0-8937-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Déplacement de l'arrêt Braunston",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "7bbf970c-86ad-11f0-a9ad-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Suppression de l'arrêt Les Prés Longs",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "827788b6-86ad-11f0-88ed-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Suppression des arrêts \"Fayotte\" et \"Bourg\"",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "88e79fd8-86ad-11f0-a9ad-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Desserte du nouvel arrêt \"Le Blamont\"",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "8d2e97ea-86ad-11f0-88ed-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Nouvel arrêt \"Foch Montry\"",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "27745b04-87fe-11f0-bf1d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Suppression des arrêts \"Basses Fermes\" Fublaines",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "602bd076-8817-11f0-afea-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "10 - arrêt LE THUIT vers Calmette / MLK LFA déplacé sur RD 36 (arrêt lignes 5154 et 9111) (099)",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "fae441f6-88a9-11f0-afea-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Erratum ligne 5359",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "91291408-88ea-11f0-afea-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "🚌 Ligne 3122 – Changement d’horaires à partir du 5 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "014ab9a0-8961-11f0-bc5d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Modification ligne 5313",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "10c5a45a-896e-11f0-ab99-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "🚍ℹ RENFORCEMENT LIGNE 5102 - WEEK-ENDS DU 6 AU 21 SEPTEMBRE",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "11490444-8a54-11f0-bc5d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Fonctionnement du bus de soirée",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "6d177d0a-8a68-11f0-a585-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Réseau Mantois - Travaux Boulevard Georges Clémenceau",
+        "severity": "INFORMATION",
+        "cause": "TRAVAUX"
+      },
+      {
+        "id": "1dd223a4-8d55-11f0-ab99-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "15/09/2025 Renumérotation de nos lignes",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "8d6c419c-8d99-11f0-afea-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Nouveaux arrêts !",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "f5168112-8e58-11f0-a585-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "15/09/2025 Renumérotation de vos lignes",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "40a6a318-8e5a-11f0-ab99-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Le 15 septembre, vos lignes de bus changent de numéro sur le territoire de Paris Saclay",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "a34d9922-8fa9-11f0-bc5d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Lignes M - 2313 / Ms - 2333 / Qs 2349",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "e87ce910-8fba-11f0-bc5d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "⚠️🚍#InfoTrafic- Ligne 2107 - Du 15/09/2025 au 19/09/2025 inclus",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "d2281f00-8fd2-11f0-922c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Travaux à Rambouillet- Lignes 5224 / 5320 / 5330",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "d6dbc72c-8fd2-11f0-bc5d-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Travaux à Gometz-le-Châtel- Ligne 5307",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "d6d2fd1a-8fdf-11f0-a585-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Territoire Mantois - Travaux Boulevard Carnot",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "cab5c33a-9216-11f0-afea-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Risque de forte affluence de/vers la gare de Parc des Expositions",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "aee45f2c-92cf-11f0-ab99-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Travaux - ligne 8 - du 15/09 au 19/09/2025",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "411ce2d0-92f1-11f0-a3cb-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Tramway RATP - Mouvement social : Trafic perturbé sur la ligne T10",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "09e18256-930c-11f0-a3cb-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Info Trafic- Bus - Mouvement Social du 18/09/25",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "a664aa50-9310-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Mouvement Social du jeudi 18 septembre 2025",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "6840c6d2-931a-11f0-abd9-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Evolution des horaires ligne 2342",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "6e2ee51a-931a-11f0-9236-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Evolution des horaires ligne 2335",
+        "severity": "INFORMATION",
+        "cause": "PERTURBATION"
+      },
+      {
+        "id": "5ddef274-9331-11f0-abd9-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 7 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "47b9adac-9333-11f0-abd9-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 6 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "5297acc4-9333-11f0-abd9-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 10 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "90af9f12-9333-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 9 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "d7609740-9333-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 13 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "65315f8c-9334-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 2 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "ae79dafc-9334-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 3 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "b2bf9548-9334-11f0-9236-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 3B : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "f8319446-9334-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 5 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "3bfc03f0-9335-11f0-928c-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 7B : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "8a01e02e-9335-11f0-abd9-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 8 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "8e997462-9335-11f0-9236-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 11 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      },
+      {
+        "id": "1344975a-9336-11f0-9236-0a58a9feac02",
+        "ts": "2025-09-16T20:29:14.662105+00:00",
+        "message": "Métro 12 : Information - Autre",
+        "severity": "INFORMATION",
+        "cause": "INFORMATION"
+      }
+    ]
+  },
+  "lastUpdated": "2025-09-16T20:29:14.662105+00:00",
+  "version": 1
+}
